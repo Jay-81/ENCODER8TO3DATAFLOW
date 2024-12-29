@@ -1,5 +1,5 @@
-### EXP:5 ENCODER 8TO3 DATAFLOW MODELLING
-### DATE: 24th Oct 2024
+# EXP:5 ENCODER 8TO3 DATAFLOW MODELLING
+# DATE: 24th Oct 2024
 **AIM:**
 
 To implement  Encoder 8 To 3 in Dataflow Modelling using verilog and validating their functionality using their functional tables
